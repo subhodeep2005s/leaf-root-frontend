@@ -10,6 +10,8 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "framer-motion": "^12.29.2",
+    "lucide-react": "^0.563.0",
     "next": "16.2.0-canary.17",
     "react": "19.2.4",
     "react-dom": "19.2.4"
